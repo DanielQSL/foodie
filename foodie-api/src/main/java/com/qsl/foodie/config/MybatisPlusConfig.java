@@ -10,7 +10,8 @@ import org.springframework.context.annotation.Configuration;
 /**
  * MyBatis-Plus配置
  *
- * @author DanielQSL
+ * @author qianshuailong
+ * @date 2020/1/7
  */
 @Configuration
 @MapperScan("com.qsl.foodie.mapper")
